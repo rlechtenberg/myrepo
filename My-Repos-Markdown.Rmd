@@ -1,6 +1,8 @@
 ---
 title: "My Repo's Markdown"
 output: html_document
+  html_document:
+    keep_md: true
 date: "2025-01-07"
 ---
 
