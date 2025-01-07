@@ -1,15 +1,9 @@
----
-title: "My Repo's Markdown"
-output: 
-  html_document:
-    keep_md: true
-date: "2025-01-07"
----
+My Repo’s Markdown
+================
+2025-01-07
 
 Hello world!
-
 
 ``` r
 p <- function(x){print(x)}
 ```
-
