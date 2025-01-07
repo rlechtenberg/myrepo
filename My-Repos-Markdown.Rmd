@@ -1,6 +1,8 @@
 ---
 title: "My Repo's Markdown"
-output: github_document
+output: 
+  github_document:
+  hmtl_document:
 date: "2025-01-07"
 ---
 
